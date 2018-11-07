@@ -1,2 +1,0 @@
-# KalkulackaDva
-Created with CodeSandbox
